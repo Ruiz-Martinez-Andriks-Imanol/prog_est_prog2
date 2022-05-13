@@ -1,5 +1,5 @@
 # prog_est_prog2
-Autor: Andriks Imanol Ruiz Martinez <br>
+<p>Autor: Andriks Imanol Ruiz Martinez 
 Escuela: Universidad del Valle de Mexico Campus Villahermosa
 Materia: Programación Estructrada
 Ciclo: 01/2022
@@ -17,4 +17,4 @@ objetivo: mostrar el uso de variables flotantes, como declaralas, pedirlas por t
 
 breve descripcion:
 El programa pide como entrada 2 valores flotatnes( base y altura)
-calcula el area de un triangulo e imprime su resultado
+calcula el area de un triangulo e imprime su resultado </p>
