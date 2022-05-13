@@ -1,5 +1,5 @@
 # prog_est_prog2
-Autor: Andriks Imanol Ruiz Martinez
+Autor: Andriks Imanol Ruiz Martinez <br>
 Escuela: Universidad del Valle de Mexico Campus Villahermosa
 Materia: Programación Estructrada
 Ciclo: 01/2022
