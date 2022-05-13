@@ -1,22 +1,22 @@
 
 /* Autor: Andriks Imanol Ruiz Martinez fecha:03/02/2022
 Escuela: Universidad del Valle de Mexico Campus Villahermosa
-Materia: Programaci髇 Estructrada
+Materia: Programaci贸n Estructrada
 Ciclo: 01/2022
 
-Este es el programa de la estructura b醩ica de Lenguaje C de la materia de Programaci髇 Estructurada
+Este es el programa de la estructura b谩sica de Lenguaje C de la materia de Programaci贸n Estructurada
 Muestra el uso de:
 -declaracion de variables.
 -variables de tipo flotante.
 -scanf
 -operaciones aritmeticas
 printf para mostrar varias variables.
--Comentarios. para la doumentaci髇 interna del programa.
+-Comentarios para la doumentaci贸n interna del programa.
 	*/
 #include<stdio.h>
 
 int main(){
-/*	//Declaraci髇 de variables
+/*	//Declaraci贸n de variables
 	int base, altura, area;
 	//Entrada de datos
 	printf("Calcular el area del Triangulo\n");
@@ -29,7 +29,7 @@ int main(){
 	//salida
 	printf("El area del triangulo es %d", area); */
 	 
-	//Declaraci髇 de variables
+	//Declaraci贸n de variables
 	int base, altura;
 	float area;
 	//Entrada de datos
