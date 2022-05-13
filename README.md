@@ -6,12 +6,15 @@ Ciclo: 01/2022</p>
 <br>
 <p>Este es el programa de la estructura básica de Lenguaje C de la materia de Programación Estructurada<br>
 Muestra el uso de:
-*declaracion de variables.
-*variables de tipo flotante.
-*scanf
-*operaciones aritmeticas
-*printf para mostrar varias variables.
-*Comentarios. para la doumentación interna del programa. </p>
+  <ul>
+    <li>declaracion de variables.</li>
+    <li>variables de tipo flotante.</li>
+    <li>scanf</li>
+    <li>operaciones aritmeticas</li>
+    <li>printf para mostrar varias variables</li>
+<li>Comentarios. para la doumentación interna del programa.</li>
+    </ul>
+    </p>
 <br>
 objetivo: mostrar el uso de variables flotantes, como declaralas, pedirlas por teclado, realizar operaciones aritmeticas e imprimirlas
 <br>
