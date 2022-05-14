@@ -11,7 +11,7 @@ Muestra el uso de:
 -scanf
 -operaciones aritmeticas
 printf para mostrar varias variables.
--Comentarios para la doumentación interna del programa.
+-Comentarios para la documentación interna del programa.
 	*/
 #include<stdio.h>
 
