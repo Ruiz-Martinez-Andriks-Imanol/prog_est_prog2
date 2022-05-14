@@ -12,6 +12,7 @@ Muestra el uso de:
     <li>scanf</li>
     <li>operaciones aritmeticas</li>
     <li>printf para mostrar varias variables</li>
+    <li>usa include para librerias</li>
 <li>Comentarios para la doumentación interna del programa.</li>
     </ul>
     </p>
