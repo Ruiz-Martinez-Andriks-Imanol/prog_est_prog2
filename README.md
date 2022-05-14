@@ -13,7 +13,7 @@ Muestra el uso de:
     <li>operaciones aritmeticas</li>
     <li>printf para mostrar varias variables</li>
     <li>Usa include para librerias</li>
-<li>Comentarios para la doumentación interna del programa.</li>
+<li>Comentarios para la documentación interna del programa.</li>
     </ul>
     </p>
 <br>
