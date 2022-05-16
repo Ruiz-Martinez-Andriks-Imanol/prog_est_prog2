@@ -17,7 +17,7 @@ Muestra el uso de:
     </ul>
     </p>
 <br>
-<b>objetivo:</b> mostrar el uso de variables flotantes, como declaralas, pedirlas por teclado, realizar operaciones aritmeticas e imprimirlas
+<b>Objetivo:</b> mostrar el uso de variables flotantes, como declaralas, pedirlas por teclado, realizar operaciones aritmeticas e imprimirlas
 <br>
 <br>
 <p><b>Breve descripción:</b>
